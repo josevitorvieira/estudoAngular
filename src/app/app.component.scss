@@ -1,0 +1,68 @@
+#general{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#create{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 700px;
+    height: 100%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+}
+
+#nome, idade, submitButton{
+    display: flex;
+}
+
+#table{
+    background-color: rgb(156, 127, 30);
+    width: 745px;
+    padding: 5px;
+    border-radius: 7px;
+    margin: 3px;
+}
+
+.coluna{
+    border-color: black;
+    border-style: groove;
+    border-radius: 3px;
+    text-align: center;
+    
+}
+
+#captionTable{
+    background-color: rgb(235, 182, 11); 
+    border-radius: 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+#pessoa{
+    margin: 10px;  
+}
+   
+.input{
+    width: 150px;
+    height: 20px;
+    border-radius: 6px;
+    margin: 5px;
+}
+
+.texto{
+    font-weight:bold;
+}
+
+.button{
+    margin-right: 10px;
+}
+
+
+
+
+
